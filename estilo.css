@@ -18,3 +18,8 @@ body{
     border:2px;
     
 }
+
+a{
+    columns: #4b566a;
+    text-decoration: none;
+}
